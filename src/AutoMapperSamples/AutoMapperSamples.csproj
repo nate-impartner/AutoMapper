@@ -93,6 +93,7 @@
     <Compile Include="Mappers\Query.cs" />
     <Compile Include="Mappers\QuerySourceInjection.cs" />
     <Compile Include="Mappers\TypeConverters.cs" />
+    <Compile Include="Nate-SandboxClass.cs" />
     <Compile Include="NestedMappings.cs" />
     <Compile Include="Projection.cs" />
   </ItemGroup>
